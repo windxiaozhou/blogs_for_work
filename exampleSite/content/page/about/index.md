@@ -1,12 +1,12 @@
 ---
 title: 个人介绍
-description: 这是我的个人介绍
-date: '2022-07-29'
+description: 你渴望力量吗少年？
+date: '2022-06-24'
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
+license: YQL BY-NC-ND
 lastmod: '2022-07-29'
 menu:
     main: 
@@ -15,12 +15,12 @@ menu:
             icon: user
 ---
 ## 总体概述
-> 我是Coucou，来自广东湛江，计算机物联网专业，嵌入式软件方向；
+> 全国大学生数学建模竞赛白给者，EXP公主殿下的dog；
 
 ## 兴趣爱好
-> 我是业余羽毛球和乒乓球选手，平常喜欢运动，尤爱打羽毛球；
+> 如果我说唱跳RAP篮球是我的爱好，你会信吗？
 >
-> 我平常一个人时喜欢听音乐，欧美日韩，电子纯音，流行trap，都听，只要旋律节奏对了，那就是我钟爱的音乐了；
+> 其实我还是想当一个说唱歌手，给自己上一层buff。
 
 
 
